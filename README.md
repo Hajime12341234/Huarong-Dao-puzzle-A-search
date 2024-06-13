@@ -18,3 +18,11 @@ I proposed an admissibe heuristic that dominates the Manhattan heuristic in the 
 
 
 
+
+![image](https://github.com/Hajime12341234/Huarong-Dao-puzzle-A-star-search/assets/132004336/96c4b206-3d9a-4328-8a5f-61cf6d851a9d)
+
+
+
+
+
+
