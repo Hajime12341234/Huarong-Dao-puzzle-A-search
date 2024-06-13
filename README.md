@@ -15,6 +15,7 @@ If we use some "smarter" heuristic which dominates the Manhattan heuristic, we m
 I proposed an admissibe heuristic that dominates the Manhattan heuristic in the advanced pdf document. You could take a look at it if you are interested. 
 
 
+Below is a sample picture of the Huarong Dao puzzle. The picture is coming from the following website: https://devils-son-in-law.fandom.com/wiki/Huarong_Dao
 
 
 
