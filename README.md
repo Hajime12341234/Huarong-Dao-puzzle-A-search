@@ -3,7 +3,7 @@ The full implementation is available in hrd.py file.
 The purpose of this project was to implement A-star search algorithm to find the optimal path to the goal state in the context of Huarong Dao puzzle. 
 We coded two algorithms, DFS and A-star to make some comparison between optimal algorithm and non-optimal algotithm. 
 
-For A-star search algotithm, we used the Manhattan distance of the goal piece to the goal region as a heuristic function. 
+For A-star search algotithm, we used the Manhattan distance from the goal piece to the goal region as a heuristic function. 
 Its corresponding relaxed problem is that the goal piece can overlap with any other pieces on the board. 
 It is not hard to see that given any configuration, the Manhattan heuristic is admissible. 
 Note that if heuristic is admissible, then A-star will return an optimal solution.
